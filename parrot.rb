@@ -4,4 +4,5 @@
 def parrot(bird ="Squawk")
   puts "parrot say #{bird}"
 end
-parrot "Squawk"
+parrot
+
